@@ -8,7 +8,7 @@
 
 # Running as a docker image 
 
--Install Docker 
--Naviage to the Repo
--Build the image with `docker build -t name/service .`
--Run the image with `docker run -it --rm -p 9000:9000 --name helloservice name/service`
+-Install Docker <br/>
+-Naviage to the Repo <br/>
+-Build the image with `docker build -t name/service .`<br/>
+-Run the image with `docker run -it --rm -p 9000:9000 --name helloservice name/service` <br/>
