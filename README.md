@@ -3,7 +3,7 @@
 -clone the Repo<br/>
 -CD into the Repo <br/>
 -Run `npm install` <br/>
--Run  `npm install` <br/>
+-Run  the service  `node server.js` <br/>
 
 
 # Running as a docker image 
